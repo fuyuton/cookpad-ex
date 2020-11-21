@@ -52,7 +52,3 @@ ARGV.each {|str|
 }
 t.view
 
-
-
-#このプログラムの欠点は、truck_weightとtruck_product_idが疎のまま実装されていること
-#本来この2つは1つのものとして扱えるべき
